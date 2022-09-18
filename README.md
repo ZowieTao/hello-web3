@@ -10,4 +10,8 @@ npx hardhat test
 REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
+yarn add 
+yarn hard node
+yarn hardht run scripts/run.js --network localhost
+yarn hardhat compile
 ```
